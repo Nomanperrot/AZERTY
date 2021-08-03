@@ -3,7 +3,7 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("./assets/fond.png");
+    background-image: url("./fond.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
